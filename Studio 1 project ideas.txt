@@ -1,0 +1,5 @@
+inventory system - string array
+choices - switch statements
+numerous weapons
+explosives
+no respawn, redrumredrumredrum
